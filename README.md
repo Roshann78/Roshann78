@@ -1,5 +1,9 @@
 
+
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/00fbc001-5abb-47ad-8cac-6d8bfb41a613)
+
 ## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roshan-sharma-719a81286) 
 
 # 💻 Tech Stack:
