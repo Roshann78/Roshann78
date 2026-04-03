@@ -1,5 +1,13 @@
 
 
+# 👋 Hi, I'm Roshan Sharma
+
+💻 Full-stack developer | Competitive Programmer  
+🚀 Specialist on Codeforces (1550) | 4⭐ CodeChef (1812)  
+🏆 ICPC Asia West Regionalist  
+⚡ Building projects, solving problems, and constantly improving.
+
+
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/00fbc001-5abb-47ad-8cac-6d8bfb41a613)
 
 ## 🌐 Socials:
