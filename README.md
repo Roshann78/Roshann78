@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Roshan Sharma
 
  Full-stack developer | Competitive Programmer  
- Specialist on Codeforces (1550) | 4⭐ CodeChef (1819)  
+ Expert on Codeforces (1642) | 4⭐ CodeChef (1901)  
  ICPC Asia West Regionalist  
  Building projects, solving problems, and constantly improving.
 
